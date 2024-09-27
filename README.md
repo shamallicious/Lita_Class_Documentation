@@ -1,2 +1,2 @@
 # Lita_Class_Documentation
-Project backup for LITA for data analysis
+Project backup for LITA data analysis training
